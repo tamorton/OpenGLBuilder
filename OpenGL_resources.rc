@@ -1,0 +1,3 @@
+FONT_CSV RCDATA "font\\default_font.csv"
+FONT_PNG RCDATA "font\\default_font.png"
+POINT_PNG RCDATA "font\\point.png"
